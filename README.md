@@ -66,7 +66,5 @@ Includes:
 ---
 
 ## Power BI Dashboard  
-Located in `/dashboard/`
-
-Add your dashboard images here once created:
+coming soon
 
