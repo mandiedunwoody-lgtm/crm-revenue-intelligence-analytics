@@ -6,6 +6,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-green)
 ![CRM](https://img.shields.io/badge/CRM-Insights%20%26%20Automation-purple)
 ![Data](https://img.shields.io/badge/Data-Synthetic%205000%20Rows-lightgrey)
+
 A full CRM analytics project demonstrating customer lifecycle insights, revenue forecasting, churn analysis, and automation opportunities.  
 Built using **SQL, Python, and Power BI** to showcase end‑to‑end data analytics and real business impact.
 
