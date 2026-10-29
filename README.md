@@ -10,8 +10,6 @@
 A full CRM analytics project demonstrating customer lifecycle insights, revenue forecasting, churn analysis, and automation opportunities.  
 Built using **SQL, Python, and Power BI** to showcase end‑to‑end data analytics and real business impact.
 
-A full CRM analytics project demonstrating customer lifecycle insights, revenue forecasting, churn analysis, and automation opportunities.  
-Built using **SQL, Python, and Power BI** to showcase end‑to‑end data analytics and real business impact.
 
 ---
 
